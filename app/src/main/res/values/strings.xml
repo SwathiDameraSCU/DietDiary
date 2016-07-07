@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Diet Diary</string>
+    <string name="intro_text">Behold, a data dump from the Fitness API! Check the menu for more actions!</string>
+    <string name="action_delete_data">Delete step count data</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_web_search">Web Search</string>
+    <string name="action_uninstall">Uninstall</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Step Counter</item>
+        <item >Search Recipes</item>
+        <item >Favourite Recipes</item>
+        <item >Share</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_step_counter</item>
+        <item>@drawable/ic_search_recipe</item>
+        <item>@drawable/ic_favourite_recipe</item>
+        <item>@drawable/ic_share</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+    <string name="step_counter">Start step count</string>
+    <string name="steps_counter">Step Counter</string>
+    <string name="step_count">Total steps: 0</string>
+    <string name="calorie_count">Calories Burnt: 0</string>
+    <string name="miles">Miles: 0.0</string>
+    <string name="steps">STEP COUNT</string>
+    <string name="date">DATE</string>
+    <string name="calories">CALORIES</string>
+    <string name="history">Your history for last 5 days</string>
+
+    <string name="choose_ingredients">Choose ingredients</string>
+    <string name="listMsg">No ingredients selected.</string>
+    <string name ="proc">Procedure</string>
+    <string name="facebook_app_id">1484635825160461</string>
+    <string name="share_message">Like to share your health tips and goals?</string>
+</resources>

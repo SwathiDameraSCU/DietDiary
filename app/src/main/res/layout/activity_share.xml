@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by Aasawari on 5/29/2015-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:text="@string/share_message"
+        android:textAppearance="?android:attr/textAppearanceListItemSmall"
+        android:textSize="26sp"
+        android:typeface="serif" />
+
+    <com.facebook.share.widget.ShareButton
+        android:id="@+id/fb_share_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:padding="20dp"
+        android:layout_margin="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="175dp"
+        android:text="SHARE" />
+
+</LinearLayout>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<recipes>
+    <recipe>
+        <rName>Chicken Salsa Soup (92 cals)</rName>
+        <rDesc>1/2 lb chicken breast; 14 1/2 oz chicken broth; 14 1/2 oz water; 2 tsps chili powder; 1 cup corn; 8 oz salsa; 1 cup chopped carrots</rDesc>
+        <rCalCount>92</rCalCount>
+        <rProc>
+1. In a large saucepan, combine chicken, broth, water and chili powder.
+2. Bring to a boil. Reduce heat; cover and simmer for 5 minutes.
+3. Add corn and carrots and return to a boil.
+4. Reduce heat and cover and simmer till chicken is no longer pink and corn is tender.
+5. Add salsa and heat through. Garnish with cheese if desired.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Israeli Salad Recipe (43 cals)</rName>
+        <rDesc>2 cucumbers; 4 tomatoes; 1 green bell pepper; 1 tablespoon extra virgin olive oil; 3	tablespoons lemon juice</rDesc>
+        <rCalCount>43</rCalCount>
+        <rProc>
+1. Finely dice each vegetable.
+2. Combine the ingredients in a serving container and toss well.
+3. If time allows, let the salad stand at room temperature for 30 minutes before serving.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Warm Eggplant and Goat Cheese Sandwiches (24 cals)</rName>
+        <rDesc>Olive oil, eggplant, goat cheese, sandwich rolls, tomato, arugula</rDesc>
+        <rCalCount>24</rCalCount>
+        <rProc>
+1. Preheat oven to 275°.
+2. Brush oil over eggplant.
+3. Heat a large nonstick skillet coated with cooking spray over medium-high heat. Add eggplant; cook 5 minutes on each side or until lightly browned. Sprinkle with salt and pepper.
+4. Spread about 1 tablespoon of goat cheese over cut side of each roll half. Place rolls on a baking sheet, cheese sides up; bake at 275° for 8 to 10 minutes or until thoroughly heated.
+5. Remove from oven; top bottom half of each roll with 1 eggplant slice, 1 tomato slice, and 1/2 cup arugula. Top sandwiches with top halves of rolls.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Banana Milkshake Recipe (128 cals)</rName>
+        <rDesc>1/2	banana, sliced, 6 oz skim milk, 1 tsp vanilla extract, 1 tsp cinnamon, 1/3 cup ice crushed</rDesc>
+        <rCalCount>128</rCalCount>
+        <rProc>
+1. Chop half a banana into slices, place in plastic baggy and freeze overnight.
+2. Gather ingredients.
+3. Place half banana (now chopped and frozen) into blender. Add 1/3 cup ice, 6 ounces of skim milk and 1 teaspoon of vanilla extract. Blend until smooth.
+4. (Optional: Add 1 packet of Splenda for extra sweetness)
+5. Pour mix into tall glass. Sprinkle about 1 teaspoon of ground cinnamon on shake.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Protein Pancakes Recipe (139 cals)</rName>
+        <rDesc>1/3	cup oatmeal; 1 banana; 4 egg whites
+        </rDesc>
+        <rCalCount>139</rCalCount>
+        <rProc>
+1. Mix all ingredients together.
+2. Fry with little oil for about 5 minutes.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Chicken Burrito with Veggies (150 cals)</rName>
+        <rDesc>1 chicken burrito, 3	oz chicken, 1/2	cup diced tomatoes, 3 tbs diced onion, 1/2	Avocado, 1	flour tortilla, 1/4	tsp salt</rDesc>
+        <rCalCount>150</rCalCount>
+        <rProc>
+1. Grill Chicken
+2. Dice tomatoes and onions and mix, set aside
+3. Heat burrito lightly
+4. Smash avocado on tortilla till flat
+5. Add chicken and tomato onion salsa
+6. Sprinkle salt
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Black Bean and Corn Chili Recipe (100 cals)</rName>
+        <rDesc>1 clove garlic or 1 tsp garlic powder, 1/2 cup onion, 15	ounce can black beans, drained, rinsed, 15 ounce can tomatoes, 17g (1 Tbsp) tomato paste with salt, 1 cup frozen corn, 1 tsp sugar, 1 tsp chili powder, 1 tsp cumin, 1/2 cup chopped green pepper</rDesc>
+        <rCalCount>100</rCalCount>
+        <rProc>
+1. Saute onion and garlic until onion is clear.
+2. Add beans, tomatoes, tomato paste, corn, sugar and spices. Mix and heat to boiling then reduce heat and simmer.
+3. Add green pepper and continue simmering until tender.
+4. Note: Omitting the sugar only reduces sugars by 0.7 g per serving and calories by 3 by serving.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Veggie Burgers Recipe (39 cals)</rName>
+        <rDesc>1 zucchini grated, 1	potato peeled and grated, 1	carrot grated, 1/4 cup onion grated, 1/2 tsp oregano, 2	egg whites</rDesc>
+        <rCalCount>39</rCalCount>
+        <rProc>
+1. Combine ingredients, mix well.
+2. Pour 1/2 cup batter on hot griddle.
+3. Fry 2 to 3 minutes on each side.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Veggie Burgers Recipe (63 cals)</rName>
+        <rDesc>6 garlic cloves, 2 cups basil leaves, 1/4 cup pine nuts, 1/4	cup grated parmesan cheese, 1 tablespoon olive oil</rDesc>
+        <rCalCount>63</rCalCount>
+        <rProc>
+1. mix all ingredients in food processor.
+2. scrape into container and refrigerate
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Low-Fat Alfredo Sauce (79 cals)</rName>
+        <rDesc>1 tbsp. margarine, 1/4 cup flour, 1 tsp. salt, 1	pinch nutmeg, 3	cups skim milk, 1/4	tsp. pepper, 1 tbsp. chopped parsley, 1	tsp. minced garlic</rDesc>
+        <rCalCount>79</rCalCount>
+        <rProc>
+1. Heat margarine over medium heat in a medium-sized saucepan until melted.
+2. Add flour; Cook, stirring for 1 minute.
+3. Whisk in milk, salt, pepper, and nutmeg.
+4. Bring to a boil, whisking.
+5. Reduce heat and simmer, stirring occasionally, for 5 minutes.
+6. Toss with parmesan cheese (3/4 c) and pasta.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Keri's Meatloaf Recipe (246 cals)</rName>
+        <rDesc>1 cup bread crumbs italian, 1 1/2 pounds lean hamburger, 3/4	cup pasta sauce, 1/2 cup onion, 1 tsp garlic, 2	eggs, 1/2 cup ketchup</rDesc>
+        <rCalCount>246</rCalCount>
+        <rProc>
+1. Mix hamburger, bread crumbs, sauce, onion, garlic and eggs.
+2. Pat into a 9x5 loaf pan.
+3. Cook 45 minutes at 350 degrees. Top with ketchup.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Cranberry Orange Smoothie (130 cals)</rName>
+        <rDesc>3/4 cup Ocean Spray Diet Cranberry Juice, 3/4 cup frozen berries, 3/4 cup nonfat light yogurt, 1/2 frozen banana, 1 orange peeled, 1/8 tsp. vanilla extract, 1/8 tsp. cinnamon</rDesc>
+        <rCalCount>130</rCalCount>
+        <rProc>
+1. Add everything to the blender and blend to your desired consistency.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Coconut Chia Pudding (260 cals)</rName>
+        <rDesc>1/4 cup chia seeds, 1 cup light or full-fat coconut milk, depending on preference, 1/2 tablespoon honey</rDesc>
+        <rCalCount>260</rCalCount>
+        <rProc>
+1. Mix chia seeds, coconut milk, and honey together in a small bowl or glass mason jar. Let it set in refrigerator overnight.
+2. Remove it from the fridge, and make sure your pudding looks thick and the chia seeds have gelled. Top with fresh fruit and nuts, and enjoy immediately.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Stuffed Peppers Recipe (260 cals)</rName>
+        <rDesc>6 green peppers, 1 lb ground beef, 1/3 cup chopped onion, 2	cup tomatoes stewed, 3/4 cup minute rice</rDesc>
+        <rCalCount>260</rCalCount>
+        <rProc>
+1. Cut off tops of peppers, remove seeds, sprinkle w/salt.
+2. Brown meat and onion, add tomoatoes, rice, worcestershire saice, sault and pepper to taste.
+3. cover and simmer till rice is almost tender (about 5 minutes).
+4. Stuff peppers, stand upright in baking dish, bake uncovered in 350 degree, for 25 minutesMay sprinle with cheese too.
+        </rProc>
+    </recipe>
+    <recipe>
+        <rName>Mango Salsa Recipe (41 cals)</rName>
+        <rDesc>1 Mango (peeled, pitted, and diced into 1/4 pieces), 1	Red Bell Pepper (steamed, stemmed, and diced into 1/4 pieces), 1 Red Onion (peeled and finely diced), 2	tbsp Fresh Mint (finely chopped), 1	tbsp Fresh Cilantro (finely chopped), 3	tbsp Lime Juice (freshly squeezed), 2	tbsp Mango puree, 1	Salt to taste, 1	Fresh Ground Pepper to taste, 1	Sugar to taste </rDesc>
+        <rCalCount>41</rCalCount>
+        <rProc>
+1. Mix ingredients in bowl, stirring vigorously.
+        </rProc>
+    </recipe>
+</recipes>

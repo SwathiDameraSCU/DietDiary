@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by Aasawari on 5/18/2015-->
+<resources>
+    <string-array name="list_of_ingredients">
+        <item>Select Ingredients</item>
+        <item>Apples</item>
+        <item>Artichokes</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Beef</item>
+        <item>Blueberry</item>
+        <item>Blackberry</item>
+        <item>Bread</item>
+        <item>Broccoli</item>
+        <item>Buns</item>
+        <item>Carrots</item>
+        <item>Cantaloupe</item>
+        <item>Cheese</item>
+        <item>Chicken</item>
+        <item>Cilantro</item>
+        <item>Coffee</item>
+        <item>Cornbread</item>
+        <item>Eggs</item>
+        <item>Fish</item>
+        <item>Garlic</item>
+        <item>Garlic Bread</item>
+        <item>Hummus</item>
+        <item>Jalapenos</item>
+        <item>Jam</item>
+        <item>Ketchup</item>
+        <item>Lentil</item>
+        <item>Lettuce</item>
+        <item>Macaroni</item>
+        <item>Maple Syrup</item>
+        <item>Mashed Potatoes</item>
+        <item>Mayonnaise</item>
+        <item>Milk</item>
+        <item>Noodles</item>
+        <item>Olives</item>
+        <item>Olive Oil</item>
+        <item>Omelet</item>
+        <item>Onion</item>
+        <item>Pasta</item>
+        <item>Peanut Butter</item>
+        <item>Pepper</item>
+        <item>Pickles</item>
+        <item>Potatoes</item>
+        <item>Ranch Dressing</item>
+        <item>Rice</item>
+        <item>Salsa</item>
+        <item>Salt</item>
+        <item>Scrambled Eggs</item>
+        <item>Shrimp</item>
+        <item>Spinach</item>
+        <item>Strawberry</item>
+        <item>Sugar</item>
+        <item>Tomato</item>
+        <item>Tortilla</item>
+        <item>Wheat Bread</item>
+    </string-array>
+</resources>
