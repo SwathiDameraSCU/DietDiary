@@ -1,5 +1,11 @@
 # DietDiary</br>
 
+##About</br>
+Diet Diary is a diet control/maintain app.</br>
+The objective of this app is to provide user a healthy meal based on their calorie expenditure.</br>
+This app will keep track of the user’s footsteps and based on the footsteps it will calculate the calorie. </br>
+Then the user can choose the ingredients to cook a meal for him. Based on the ingredients chosen, the app will fetch the healthiest (the recipe with least calorie count) recipe will be fetched from the database.</br>
+
 ##Features of the App:</br>
 1. Home</br>
 2. Step Counter</br>
