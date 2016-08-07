@@ -49,6 +49,13 @@ a. Clicking on this icon, user can navigate to the google search if he wants to 
 4. We have incorporated SQLiteDatabase in our project to insert and retrieve the recipes.</br>
 5. An algorithm that will search for healthy recipe from the database based on the calorie</br>
    count of the ingredients and user’s calorie expenditure.</br>
+
+##Technical Requirements :</br>
+1. Android SDK</br>
+2. SQLite Database</br>
+3. Android Sensor Framework</br>
+4. Android components like Activity, Intents, ActionBar, ListView and various other UI components.</br>
+5. Social networking API like Facebook/Twitter/LinkedIn.</br>
    
    ##Demo of the App
 
